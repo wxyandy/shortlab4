@@ -1,7 +1,7 @@
 ---
 title: "Short Lab 4"
 author: "Xiangyi Wen"
-date: "Due Date Here"
+date: "May 18th"
 output: html_document
 ---
 
@@ -27,7 +27,7 @@ These instructions correspond with the instructions from the lecture slides. See
 
 Please type only the link to your repository using the template below. Fill in both the square brackets `[]` and the parentheses `()` with your link.
 
-[YOUR LINK HERE](YOUR LINK HERE)
+[https://github.com/wxyandy/shortlab4](https://github.com/wxyandy/shortlab4)
 
 Here's a checklist of what we should see at the link above:
 
